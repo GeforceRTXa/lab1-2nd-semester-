@@ -1,8 +1,13 @@
 [project]
-name = "labs"
+name = "task-sources-lab1"
 version = "0.1.0"
-description = "Add your description here"
+description = "Лабораторная работа №1"
 requires-python = ">=3.12"
 dependencies = [
     "pytest>=8.4.2",
+    "pytest-cov>=7.0.0",
 ]
+
+[tool.pytest.ini_options]
+addopts = "--cov=src --cov-fail-under=80 -v"
+testpaths = ["tests"]

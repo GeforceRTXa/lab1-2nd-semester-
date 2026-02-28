@@ -75,7 +75,7 @@ fabric.properties
 # Editor-based Rest Client
 .idea/httpRequests
 
-# Android studio 3.1+ serialized cache file
+# Android studio 3.1+ serialized cache file.txt
 .idea/caches/build_file_checksums.ser
 
 ### JetBrains template
@@ -125,7 +125,7 @@ fabric.properties
 
 # Editor-based Rest Client
 
-# Android studio 3.1+ serialized cache file
+# Android studio 3.1+ serialized cache file.txt
 
 ### PythonVanilla template
 # Byte-compiled / optimized / DLL files
@@ -341,7 +341,7 @@ cython_debug/
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
-#  and can be added to the global gitignore or merged into this file.  For a more nuclear
+#  and can be added to the global gitignore or merged into this file.txt.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
@@ -392,4 +392,4 @@ cython_debug/
 
 # Editor-based Rest Client
 
-# Android studio 3.1+ serialized cache file
+# Android studio 3.1+ serialized cache file.txt
