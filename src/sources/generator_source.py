@@ -7,8 +7,8 @@ from src.protocols.protocols import TaskProtocol
 
 
 class GeneratorSource:
-    @classmethod
-    def get_tasks(cls) -> List[TaskProtocol]:
+    @staticmethod
+    def get_tasks() -> List[TaskProtocol]:
         tasks: List[TaskProtocol] = []
         for i in range(10):
             payload_type: str = choice(["text", "json", "list"])
